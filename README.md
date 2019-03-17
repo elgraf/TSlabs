@@ -13,3 +13,9 @@ Meniul a fost gasit datorita By.className.
 **DEPENDENCIES :**
 Este nevoie de depedenta selenium si chrome driver de pe maven.
 De asemenea de setat locatia driverului ca System ENV ( CHROME_DRIVER )
+
+In cazul intrebarilor : nmorkotilo@gmail.com 
+
+P.S:
+Domnule profesor scuzati pentru absentele mele, sunt angajat full-time la companie govpredict
+(https://github.com/GovPredict) din cauza asta absentez dar promit sa recuperez toate laboratoarele.
